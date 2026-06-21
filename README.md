@@ -1,4 +1,4 @@
-# Oncology Outcome Classifier 🧬📊
+# Oncology Outcome Classifier 
 
 ## 📌 Project Overview
 This project implements a comprehensive machine learning pipeline to predict patient survival outcomes using the **SEER (Surveillance, Epidemiology, and End Results) Breast Cancer dataset**. The system benchmarks 8 different classification algorithms to establish a "Champion Model" for clinical outcome prediction.
